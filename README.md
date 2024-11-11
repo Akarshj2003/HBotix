@@ -3,7 +3,7 @@
 
 HBotix is a conversational AI system designed to provide quick and accurate assistance in the healthcare domain. Powered by advanced natural language processing techniques, HBotix aims to deliver prompt answers to healthcare-related queries.
 
-** Features:
+## Features:
 
 Question Answering: Users can ask questions on various healthcare topics and receive relevant responses.
 Intelligent Search: Utilizes powerful retrieval-based question answering to find the best answers.
